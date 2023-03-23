@@ -1,6 +1,6 @@
 
 <b>
-<a href="https://heroku.com/deploy?template=https://github.com/DARKWEBREBEL/PORN-HUB"><img src="https://img.shields.io/badge/DEPLOY ON HEROKU-Canary?style=badge&logo=heroku"width="310" height="50"/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/githuubb420/pornbot"><img src="https://img.shields.io/badge/DEPLOY ON HEROKU-Canary?style=badge&logo=heroku"width="310" height="50"/></a>
 </b>
 
 
